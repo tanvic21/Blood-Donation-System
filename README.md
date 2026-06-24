@@ -4,7 +4,7 @@ A web-based Blood Donation Management System developed using PHP and MySQL.
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots\Screenshot 2026-06-24 183717.png)
+![Home Page](Screenshot 2026-06-24 183717.png)
 
 
 ## Features
